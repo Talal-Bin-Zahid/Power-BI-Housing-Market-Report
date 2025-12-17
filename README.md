@@ -27,9 +27,9 @@ The dashboard is designed to support **real estate investors, analysts, and deci
 | ------------------ | ------------- |
 | Condition 5        | $612.42K      |
 | Condition 4        | $521.20K      |
-| Condition 3        | $542.01K      |
-| Condition 2        | $334.43K      |
-
+| Condition 3        | $542.01K      | 
+| Condition 2        | $327.82K      |
+| Condition 1        | $334.43K      |
 Higher property condition is strongly associated with higher market value.
 
 ### 🛏️ Market Composition by Bedrooms
